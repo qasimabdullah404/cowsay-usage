@@ -1,0 +1,22 @@
+{
+  "name": "cowsay-usage-build-matrix",
+  "version": "1.0.0",
+  "description": "Cowsay module playground",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qasimabdullah404/cowsay-usage.git"
+  },
+  "author": "Qasim Abdullah <qasim.abdullah@travis-ci.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qasimabdullah404/cowsay-usage/issues"
+  },
+  "homepage": "https://github.com/qasimabdullah404/cowsay-usage#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
