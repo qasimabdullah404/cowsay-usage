@@ -1,8 +1,10 @@
 language: node_js
 node_js:
   - "14.16.0"
+env:
+  friend=Jane
 script:
   - echo 'Starting build..'
   - echo 'Installing dependencies..'
   - npm install
-  - cowsay Hello John
+  - cowsay Hello `friend`
