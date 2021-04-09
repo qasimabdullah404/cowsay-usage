@@ -1,1 +1,1 @@
-"# cowsay-usage" 
+# cowsay-usage
