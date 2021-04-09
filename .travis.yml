@@ -5,3 +5,4 @@ script:
   - echo 'Starting build..'
   - echo 'Installing dependencies..'
   - npm install
+  - node app.js
